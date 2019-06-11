@@ -1,5 +1,5 @@
 ///learnt from geek for grrks, stackoverflow, etc. 
-
+// telnet localhost 4950 can also be a host///////
 #include <netdb.h>//The <netdb.h> header may make available the type in_port_t and the type in_addr_t as defined in the description of <netinet/in.h>. //
 #include <stdio.h>//The stdio.h header defines three variable types, several macros, and various functions for performing input and output.//
 #include <stdlib.h>//includes functions involving memory allocation, process control, conversions and others//
